@@ -9,3 +9,6 @@ send to the file from local to github
 4. git remote add origin https://github.com/Janusath/Demo2.git
 
 git push -u origin master or/ git push or/ git push -f -u origin master
+
+
+git checkout -b myworking
