@@ -1,0 +1,28 @@
+body{
+
+    border: 1px solid green;
+}
+.box-a,.box-b,.box-c,.box-d{
+    font-size:30px;
+    font-family: sans-serif;
+    color:#fff;
+    height:100px;
+}
+
+.box-a{
+    background-color: orange;
+
+}
+.box-b{
+    background-color: red;
+    position:absolute;
+  /* top: 30px;
+   left: 40px;*/
+  
+}
+.box-c{
+    background-color: blue;
+}
+.box-d{
+    background-color: black;
+}
